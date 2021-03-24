@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Desafio 04 - Jogo de Dados</string>
+    <string name="titulo">JOGUE OS DADOS</string>
+    <string name="jogador_1">jogador 1</string>
+    <string name="jogador_2">jogador 2</string>
+    <string name="btn_jogar">Jogar</string>
+    <string name="vencedor_1">Vencedor: Jogador 1</string>
+    <string name="vencedor_2">Vencedor: Jogador 2</string>
+    <string name="empate">Empate</string>
+</resources>

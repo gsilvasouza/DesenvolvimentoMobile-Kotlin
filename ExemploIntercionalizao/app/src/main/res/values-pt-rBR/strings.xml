@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Exemplo Intercionalização</string>
+<string name="hello_world">Hello World</string>
+<string name="msg">Mensagem</string>
+<string name="text_nome">Mensagem</string>
+<string name="btn_mensagem">Mensagem</string>
+<string name="ola_mensagem">Olá</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Desafio 04 - Jogo de Dados</string>
+    <string name="titulo">ROLL THE DICE</string>
+    <string name="jogador_1">player 1</string>
+    <string name="jogador_2">player 2</string>
+    <string name="btn_jogar">Play</string>
+    <string name="vencedor_1">Winner: Player 1</string>
+    <string name="vencedor_2">Winner: Player 2</string>
+    <string name="empate">Draw</string>
+</resources>
